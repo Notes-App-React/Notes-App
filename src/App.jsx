@@ -1,6 +1,5 @@
 import React from "react";
 import { Card } from "antd";
-import { ButtonComponent } from "./components/Button";
 import { Note } from "./components/Note";
 import { Form } from "./components/Form";
 import { NoteProvider } from "./context/NoteContext";
