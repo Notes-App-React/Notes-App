@@ -1,4 +1,3 @@
-// components/Form.jsx
 import React, { useContext, useState } from 'react';
 import { NoteContext } from '../context/NoteContext';
 import { nanoid } from 'nanoid';
